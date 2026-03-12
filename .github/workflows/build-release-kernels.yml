@@ -52,8 +52,8 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        _cpusched: bore]
-        os: [debian, ubuntu]
+        _cpusched: [bore]
+        os: [ubuntu]
     uses: ./.github/workflows/builder-dispatcher.yml
     with:
       _cpusched: ${{ matrix._cpusched }}
