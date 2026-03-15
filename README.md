@@ -2,7 +2,9 @@
 
 ## Semi Rolling cherry-picked Kernels for Debian with added patches from CachyOS
 
+# This is the main repository branch - basing on the 6.19 latest kernel 
 
+More information can be found [here](https://github.com/tj5miniop/linux-tkg/wiki/Extra-Info)
 
 # Linux-tkg
 
