@@ -5,6 +5,7 @@ on:
       _cpusched:
         required: true
         type: string
+  workflow_dispatch:
 
 
 env:
