@@ -1,8 +1,10 @@
 # Linux TKG FORK for Debian
 
-## Semi Rolling cherry-picked Kernels for Debian with added patches from CachyOS
+## Semi Rolling cherry-picked Kernels for Arch with added patches from CachyOS, Nobara & the OGC Kernel (When there is a stable release)
 
-# This is the main repository branch - basing on the 6.19 latest kernel 
+### the Arch Kernel is built without the Kernel on Diet option enabled, so kernels will be slightly larger than stock Linux TKG kernels but should have full support for everythin included in the main kernel 
+
+# This is the main repository branch - based on the 7.0 rc kernel 
 
 More information can be found [here](https://github.com/tj5miniop/linux-tkg/wiki/Extra-Info)
 
